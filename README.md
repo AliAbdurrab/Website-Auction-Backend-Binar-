@@ -1,16 +1,3 @@
-<div id="top"></div>
-
-<br />
-
-
-  <h1 align="center">TokoKu API</h1>
-  
-  Server 1: <h4>https://tokoku-api.herokuapp.com/documentation/</h4>
-  Server 2: <h4>https://tokoku-api-2.herokuapp.com/documentation/</h4>
-  
-  FrontEnd: <h4>https://tokoku-xi.vercel.app/</h4>
-
-</div>
 
 ### Built With
 
